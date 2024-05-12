@@ -1,14 +1,10 @@
 ## JAVA Project ##
-American International University-Bangladesh (AIUB)
-Course: OOP-1
-Semester: 2022-2023, Summer
-Section: C
 Project Name: AIUB FITNESS ZONE
 
 ## Project Description ##
 
-It was a JAVA group project (group of 4 - Team-info.png) for summer semester 22-23.
-It is base on the AIUB Gymnasium and it's work.
+It was a JAVA group project for summer semester 22-23.
+It is base on the AIUB Gymnasium.
 
 ## Project Run Instruction: ##
 1. First, download all folders and files on your system.
