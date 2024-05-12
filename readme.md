@@ -3,7 +3,6 @@ American International University-Bangladesh (AIUB)
 Course: OOP-1
 Semester: 2022-2023, Summer
 Section: C
-Group: ??
 Project Name: AIUB FITNESS ZONE
 
 ## Project Description ##
