@@ -1,0 +1,6 @@
+			AIUB Fitness Zone			
+username : admin	password : admin
+username : avoy1	password : 23-50066-1
+username : rakin	password : 23-50071-1
+username : sami1	password : 23-50102-1
+username : navin	password : 23-50079-1
