@@ -18,7 +18,7 @@ This is my first group project. It allows user to register/login to enroll in ou
    - Open command prompt in that directory (Folder).
    - Type the following command and press enter: `javac *.java`
    - type the following command and press enter: `java Start`
-   - Alternatively, you can simply press the **"Auto-Start.bat"** file for a quick run. (Self-explianatory).
+   - Alternatively, just press the **"Auto-Start.bat"** file for a quick run. (Self-explianatory).
 
 <h2 align="left">Contributors</h2>
 
