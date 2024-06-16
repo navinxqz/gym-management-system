@@ -22,6 +22,18 @@ This is our first group project. We built a GUI program using java, that allows 
 
 <h2 align="left">Contributors</h2>
 
-| <img src= "https://avatars.githubusercontent.com/u/169520102?v=4" width="200" height= "200"/>| <img src= "https://avatars.githubusercontent.com/u/128049303?v=4" width="200" height= "200"/> | <p align="center"><img src= "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/441167359_928427595692957_2079562319101145546_n.jpg?stp=c0.58.526.526a_dst-jpg_p526x296&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG9llt8IgsLc-6PFAlFIKXcBzvi-E1Z7eYHO-L4TVnt5kX9fiyL3ynZDYax1dd1ZzsHnJ21uvJz4sCh-ILrmqvG&_nc_ohc=RgxXlwoUQnIQ7kNvgHXQyu4&_nc_ht=scontent.fdac14-1.fna&cb_e2o_trans=t&oh=00_AYDP0CWyIUXpkcaZ3e_5CYcgqDSyIc2zAKhYowO-JJzueQ&oe=6646A7CA" width="200" height= "200"/> | <p align="center"><img src= "https://scontent.fdac139-1.fna.fbcdn.net/v/t39.30808-1/337164374_595790792583302_8268285960399084587_n.jpg?stp=dst-jpg_s200x200&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFiXqCSUTJXaNZV4bezgFTwvOmnZN0x7Au86adk3THsC9sC4EuzkOO7QxV0T3ffGP53O1eyTutZzF58CgpDmCfr&_nc_ohc=Nf-K-bfauJoQ7kNvgE_OvGV&_nc_ht=scontent.fdac139-1.fna&cb_e2o_trans=t&oh=00_AYCvcWC4nxMar5pa6rAmTZVr_4laD9MMn9D2q9megICDnQ&oe=66469CFA" width="200" height= "200"/> |
-|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|---|---|
-|<a href="https://github.com/navinxqz" target="_blank">Navin, Md Nawshin|<a href="https://github.com/raiyen-zayed-rakin" target="_blank">Raiyen Zayed Rakin|<a href="https://www.facebook.com/avoy.mollick.562" target="_blank" alt="dead">Avoy Mollick|<a href="https://www.facebook.com/sammuonice" target="_blank" alt="dead">Sazid Sami|
+####
+<table>
+   <div style = "display: flex; align-item: flex-start; align: center">
+      <table align= "center">
+         <tr>
+            <td align = "center" width = "200"><img src= "https://avatars.githubusercontent.com/u/169520102?v=4" width="auto" height= "auto"/></td>
+            <td align = "center" width = "200"><img src= "https://avatars.githubusercontent.com/u/128049303?v=4" width="auto" height= "auto"/></td>
+            <td align = "center" width = "200"><img src= "https://scontent.fdac139-1.fna.fbcdn.net/v/t39.30808-1/441167359_928427595692957_2079562319101145546_n.jpg?stp=c0.0.200.200a_dst-jpg_p200x200&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG9llt8IgsLc-6PFAlFIKXcBzvi-E1Z7eYHO-L4TVnt5kX9fiyL3ynZDYax1dd1ZzsHnJ21uvJz4sCh-ILrmqvG&_nc_ohc=mzrTMZmXvFUQ7kNvgEwfLkz&_nc_ht=scontent.fdac139-1.fna&cb_e2o_trans=t&oh=00_AYDItGM7brm5raPJWLhBWhnlr-BNkABpz_yQMOcjDrSIFA&oe=66749490" width="auto" height= "auto"/></td>
+            <td align = "center" width = "200"><img src= "https://scontent.fdac139-1.fna.fbcdn.net/v/t39.30808-6/370154291_1567375817338650_7903610877517593148_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeF8z8UHxY8u4l_J346yeruK6Py9nWbInybo_L2dZsifJlHKwhboLh0-utO4cdgG-_XCvUi94s-0fdxmdGWgDS5F&_nc_ohc=UmiEjhQEZYsQ7kNvgFvwX6S&_nc_ht=scontent.fdac139-1.fna&cb_e2o_trans=t&oh=00_AYAKhyjGNoBmgn1ojYziI95-B0ZRIHJY-01_CH3oIGTEKQ&oe=667474CF" width="auto" height= "auto"/></td>
+         </tr><tr>
+            <td align = "center" width = "200"><a href="https://github.com/navinxqz" target="_blank">Navin, Md Nawshin</td>
+            <td align = "center" width = "200"><a href="https://github.com/raiyen-zayed-rakin" target="_blank">Raiyen Zayed Rakin</td>
+            <td align = "center" width = "200"><a href="https://www.facebook.com/avoy.mollick.562" target="_blank" alt="dead">Avoy Mollick</td>
+            <td align = "center" width = "200"><a href="https://www.facebook.com/sammuonice" target="_blank" alt="dead">Sazid Sami</td>
+         </tr></table>
