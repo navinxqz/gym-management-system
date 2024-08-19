@@ -1,12 +1,13 @@
 <h1 align="center">Java Project</h1>
-<p align="center"><img src= "https://github.com/navinxqz/gym-management-system/blob/main/Photo/aiubgym.PNG" width=650 title= "project interface"/>
+<p align="center"><img src= "https://github.com/navinxqz/gym-management-system/blob/main/Photo/aiubgym.PNG" width=650 title= "project interface"/></p>
 
-<h2 align="left">Description</h2>
+<details open> 
+<summary><h2 align="left">Description</h2></summary>
 This is our first group project. We built a GUI program using java, that allows user to register/login to enroll in our database server and checkout the gym workout plans according to the schedule choosen by the user while registering. It allows user to be enroll with the subscription feature to get special benefits inside the gym. There are also an admin panel for the admins to checkot the enrollments and manage database accordingly.
 
-
-<h2 align="left">Project Interior GUI</h2>
-<img src= "https://github.com/navinxqz/gym-management-system/blob/main/Photo/gym.PNG" width=650 title= "project interface"/>
+   <h2 align="center">Project Interior GUI</h2>
+   <p align="center"><img src= "https://github.com/navinxqz/gym-management-system/blob/main/Photo/gym.PNG" width=650 title= "project interface" /></p>
+</details>
 
 <h2 align="left">Pre-requisites</h2>
 - java JDK
